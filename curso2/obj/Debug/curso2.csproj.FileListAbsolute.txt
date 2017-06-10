@@ -1,0 +1,8 @@
+F:\DOCUMENTOS\Archivos\curso2\curso2\bin\Debug\curso2.exe.config
+F:\DOCUMENTOS\Archivos\curso2\curso2\bin\Debug\curso2.exe
+F:\DOCUMENTOS\Archivos\curso2\curso2\bin\Debug\curso2.pdb
+F:\DOCUMENTOS\Archivos\curso2\curso2\obj\Debug\curso2.exe
+F:\DOCUMENTOS\Archivos\curso2\curso2\obj\Debug\curso2.pdb
+F:\DOCUMENTOS\Archivos\Nombre\curso2\bin\Debug\curso2.exe.config
+F:\DOCUMENTOS\Archivos\Nombre\curso2\obj\Debug\curso2.exe
+F:\DOCUMENTOS\Archivos\Nombre\curso2\obj\Debug\curso2.pdb
